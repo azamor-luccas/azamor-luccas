@@ -3,7 +3,7 @@ I'm Azamor, fullstack and mobile developer working with <img src="https://raw.gi
 
 - 🌱 I’m currently studying **Software Architecture and Design Patterns**
 
-- 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/-Azamor-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luccas-azamor-2a089b182/)](https://www.linkedin.com/in/luccas-azamor-2a089b182/) [![Gmail Badge](https://img.shields.io/badge/-luccas.azamor@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luccas.azamor@gmail.com)](mailto:luccas.azamor@gmail.com)
+- 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/-Azamor-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/azamor/)](https://www.linkedin.com/in/azamor/) [![Gmail Badge](https://img.shields.io/badge/-luccas.azamor@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luccas.azamor@gmail.com)](mailto:luccas.azamor@gmail.com)
 
 
 <h3 align="left">Languages and Tools:</h3>
