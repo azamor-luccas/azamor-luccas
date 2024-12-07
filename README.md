@@ -1,7 +1,5 @@
 ## Hi there! 👋🏻
-I'm Azamor, fullstack and mobile developer working with <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="15" height="15"/> React.js, <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="15" height="15"/> Flutter and <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="15" height="15"/>RubyOnRails
-
-- 🌱 I’m currently studying **Software Architecture and Design Patterns**
+I'm Azamor, fullstack and mobile software engineer working with <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="15" height="15"/> Flutter, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="15" height="15"/> React.js and <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="15" height="15"/>Javascript/NodeJS
 
 - 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/-Azamor-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/azamor/)](https://www.linkedin.com/in/azamor/) [![Gmail Badge](https://img.shields.io/badge/-luccas.azamor@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luccas.azamor@gmail.com)](mailto:luccas.azamor@gmail.com)
 
